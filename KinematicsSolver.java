@@ -1,4 +1,4 @@
-package com.saptakdas;
+package com.saptakdas.physics.kinematics;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
